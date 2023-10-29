@@ -1,0 +1,13 @@
+img{
+    height: 300px;
+}
+.cf{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+hr{
+    color: blueviolet;
+}
+.card:hover{
+    transform: scale(1.04);
+}

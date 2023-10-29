@@ -1,0 +1,26 @@
+.nbm{
+    background-color: blueviolet;
+}
+a{
+    color: white;
+}
+.nb{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.nm{
+    margin-right: 30px;
+} 
+.nl:hover{
+    border-bottom: 3px solid black;
+
+}
+nav{
+    height:80px;
+    background-color: blueviolet;
+}
+li{
+    margin-top: 10px;
+    font-size: large;
+    font-weight:500;
+}
